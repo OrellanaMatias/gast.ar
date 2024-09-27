@@ -4,5 +4,5 @@
 SELECT trabajo FROM grupo1
 WHERE autor != 'ChatGPT';
 
--- Error: Sin registros"
+-- Error: "Sin registros"
 ````
